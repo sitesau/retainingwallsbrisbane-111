@@ -1,0 +1,22 @@
+{
+  "wheel_id": 691,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-111",
+  "project": "retaining-wall-builders-brisbane-timeline-0e553daee10518f8e6203",
+  "parent_t1_ref": "retainingwallsbrisbane-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall builders brisbane timeline",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-brisbane-timeline-0e553daee10518f8e6203/",
+  "tier": "T2",
+  "writeback_nonce": "71547b2e141fd777",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-brisbane-signs-you-need-8b6b7de2dce2f81/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
